@@ -1,0 +1,14 @@
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\bin\Debug\net7.0\estudos_csharp.exe
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\bin\Debug\net7.0\estudos_csharp.deps.json
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\bin\Debug\net7.0\estudos_csharp.runtimeconfig.json
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\bin\Debug\net7.0\estudos_csharp.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\bin\Debug\net7.0\estudos_csharp.pdb
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.AssemblyInfoInputs.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.AssemblyInfo.cs
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.csproj.CoreCompileInputs.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\refint\estudos_csharp.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.pdb
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\estudos_csharp.genruntimeconfig.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Classes\obj\Debug\net7.0\ref\estudos_csharp.dll
