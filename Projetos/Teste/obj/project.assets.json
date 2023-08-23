@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Classes\\estudos_csharp.csproj",
-      "projectName": "estudos_csharp",
-      "projectPath": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Classes\\estudos_csharp.csproj",
+      "projectUniqueName": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Projetos\\Teste\\Teste.csproj",
+      "projectName": "Teste",
+      "projectPath": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Projetos\\Teste\\Teste.csproj",
       "packagesPath": "C:\\Users\\ph_ma\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Classes\\obj\\",
+      "outputPath": "C:\\Users\\ph_ma\\Documents\\GitHub\\estudos_csharp\\Projetos\\Teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ph_ma\\AppData\\Roaming\\NuGet\\NuGet.Config"
