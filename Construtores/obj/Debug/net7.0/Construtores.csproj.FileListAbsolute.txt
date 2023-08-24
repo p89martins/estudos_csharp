@@ -1,0 +1,14 @@
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\ph_ma\Documents\GitHub\estudos_csharp\Construtores\obj\Debug\net7.0\ref\Construtores.dll
