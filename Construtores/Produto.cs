@@ -6,6 +6,25 @@ namespace Course
         public string Nome;
         public double Preco;
         public int Quantidade;
+
+
+        //Isso é um construtor
+        public Produto (string nome, double preco)
+        {
+            Nome = nome;
+            Preco = preco;
+        }
+
+        public Produto()
+        {
+
+        }
+/*        public Produto (string nome, double preco, int quantidade)
+        {
+            Nome = nome;
+            Preco = preco;
+            Quantidade = quantidade;
+        }*/
         public double ValorTotalEmEstoque()
         {
             return Preco * Quantidade;
