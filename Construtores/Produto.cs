@@ -4,6 +4,7 @@ namespace Course
 {
     class Produto
     {
+        //Aqui acontece a declaração dos ATRIBUTOS DA CLASSE 
         private string _nome;
         private double _preco;
         private int _quantidade;
@@ -17,32 +18,37 @@ namespace Course
             _quantidade = quantidade;
         }
 
+        //Nome() os parenteses indicam ser um METODO dentro do OBJETO TIPO PRODUTO
 
-        public  string GetNome(){
-            return _nome;
+        public string Nome(){
+            get { return _nome;}
+            set { 
+                if( value != null && value.Length >1){
+                    _nome = value;
+                };
+            };
         }
+        // public  string GetNome(){
+        //     return _nome;
+        // }
         
-        public  string SetNome(string nome){
-            if( nome != null && nome.Length >1){
-                _nome = nome;
-            }
-            return _nome;
-        }
+        // public  string SetNome(string nome){
+        //     if( nome != null && nome.Length >1){
+        //         _nome = nome;
+        //     }
+        //     return _nome;
+        // }
 
-        public double GetPreco(){
-            return _preco;
+        public double Preco(){
+            get{ return _preco; }
         }
 
         public int GetQuantidade(){
             return _quantidade;
         }
 
-/*        public Produto (string nome, double preco, int quantidade)
-        {
-            Nome = nome;
-            Preco = preco;
-            Quantidade = quantidade;
-        }*/
+
+
         public double ValorTotalEmEstoque()
         {
             return _preco * _quantidade;
